@@ -1,0 +1,266 @@
+{  
+   "minjustReportConfig":{
+      "sheetName":"2023",       
+      "spreadsheetKey":"1fJjF81lqjp8fpQiKxpgU5KuuvobFgpgR4bA-Zy_dgyM",
+      "reportInfo":{
+            "minjustAffirmPost":"Заместитель Министра юстиции Республики Беларусь",
+            "minjustAffirmFio":"Костюкевич Д.О.",
+
+            "circAffirmPost":"Директор Республиканского научно-исследовательского унитарного предприятия «Центр информационных ресурсов и коммуникаций»",
+            "circAffirmFio":"Кузьмина Т.А.",
+
+            "minjustAgreedPost":"Начальник управления Единого государственного регистра юридических лиц и индивидуальных предпринимателей Министерства юстиции Республики Беларусь",
+            "minjustAgreedFio":"Леус И.В.",
+
+            "circAgreedPost":"Начальник отдела инжиниринга ИТ Республиканского научно-исследовательского унитарного предприятия «Центр информационных ресурсов и коммуникаций»",
+            "circAgreedFio":"Бельская А.В.",
+
+            "contractName":"№ 6/23-ИТ от «21» марта 2023 г."
+      },
+      "credentials":{  
+         "type":"service_account",
+         "project_id":"interactionreports",
+         "private_key_id":"f96ed61701e0ca1f3879ec785aa0d6282623f442",
+         "private_key":"-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIZeJnqGtWx2rs\nUVg4N7r6fGA78xuqbl06amc3+yhJ4gyg1WXdf64TLigaDzyaTaxRceTPKecJ4LDk\nI/NdSNIzY7c6IV+T5QC19vUelZya/ZfYL+e8QgcUGQ9qYIq6gc9MOy7w28eHjENv\nflptHlXql59jr32mUHSmHVM5EE1Wh0xc5I4yCmUuATpe8dNcBRQ+NaBFU7pEvobg\n5aXJ8XSlXIBzhMArPBP0HyKnwCZlDqz4pwyPUeeSAAZT+qp8iErbxxQPc7Q4JVTo\nJpO3bZkUO/gDjlgbFbvIpULh/RGgfyQcBgIGMuyLUWuxfm/L1CYpQDasm9LycdQb\nRThHd3+1AgMBAAECggEAIDWL+bgupHCB5YC/iq2ebmMuPoR5BmAduOVgOLW0CIf+\nGp2h9UNv0aJiDKo1ReHFGAQT0B4+ha5pEAodM/mf22WkDgJOL+GnRxft1uAaHyky\nTiuI9g+wvpC2kxT4RzjU/j4m8cyJWeZ38kQfOZmeGooLMsUCj4gv74EYHrxZidYF\nZtzdtRSpahP+Hm0oo6Z+BG2zEJjjVr3kX9HLEHY3+dUqLpzNVBWO1SYOy8/zNTrY\nI3vbCLa9sXikX0oprXvVfa4iLiNpqmyM+wLbYAQaEBjFPgCMh6wl/JtGnZ5EQZLg\n5O8tzb0uRuk6n93V3KTb+SCUFvQHePel2hoicqLrsQKBgQDj91uP42aY3fJWtM9/\nxoProGShBqBqYI6xcLta9HaNZHV8pL2/66uKafrfagkkOnWOVKsl7DvaPhEcEMdE\nixWESFfGv/AazaBz4Lt6XtIZvMeQtwd9IW/6XfheVV0DnMLdWxHBQMHc4x/Tuxjw\nfzZO0zABEB2QQOWTrOE+rK9juQKBgQDhCqVgyTFm7NqYghydFQiSvT9iINhHdHVc\n7K3+zn+FwlbGFRyfknRDI8dBPTwnetvfSSZudHpIFp6oKKw5Mm91eZ8cNgq061u8\nVE5gCSLEr8PkSOYDvSCtpt5YRcibqKSbCuIhCHJP+UgrrSKC8f70amE1GaQHoubx\nuw5UHbgx3QKBgQCINy3G9KJBhZ1gofm65+u7x8NZVJRV/AxHiozo9FpCclyhde7L\n1w5RTrJQ/RMpSqUjvwPlTRsWdS/UDVKEancY7AFHCTl3SpctpoNfw3jXWC4HEtau\ntmQqvivCck958RmfGuOpDgDI9A34fjuQuPLCdv6gI/kGUUDc1NhiktzaQQKBgFQp\npRwDYqR5pG8xCf59ZU1r1Y6fdgOTPGlaYuBO3kZqHgXK03+iSDTr5pMxkZO6UQy6\n0NKyYSEgxIljXLWvdRvcNnNYiryK4S4X4Y/tGsGwcnSoBs4TJ2uKYtFkl9gPRDBv\n644rGIVsV19uSt/qHU3PkzdGtZ/dfr2dFYjD7KVJAoGBAJj50R7sSIgKAX000+Lf\nVCXokFu74MJFISsEb0OD5fIF6nPgWXR8iprZ1i3PMcCj2qsdHPNWBhvlZdqsSJU5\n02vOx/mJeGncT+O6UCCwNqjYCCoh0AxtHxD4THcLf0cedHMCl8+eyf1et5T1h3uh\nuA5lRVssg688GxbIxQiA45E7\n-----END PRIVATE KEY-----\n",
+         "client_email":"interactionreports@interactionreports.iam.gserviceaccount.com",
+         "client_id":"118285281374957066028",
+         "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+         "token_uri":"https://oauth2.googleapis.com/token",
+         "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+         "client_x509_cert_url":"https://www.googleapis.com/robot/v1/metadata/x509/interactionreports%40interactionreports.iam.gserviceaccount.com"
+      }
+   },
+   "fsznReportConfig":{
+      "reportInfo":{
+         "contractName":"№ 5/23-ИТ от «01» марта 2023 г."
+      }
+   },
+   "actsConfig":{  
+      "circResponsiblePost":"начальник отдела инжиниринга ИТ",
+      "circResponsibleFio":"Бельская А.В.",
+      "circResponsDocument":"доверенности от 03.11.2022г. №110",
+      "banks":[  
+         {  
+            "aliasName":"ЗАО _ОптиКурс НКФО",
+            "fullName":"ЗАО «ОптиКурс» НКФО»",
+            "address":"220023, г.Минск, пр-т Независимости, 95",
+            "bankAccount":"Р/с BY60ABLT66300004093350000000",
+            "bic":"БИК ABLTBY22, УНП 100331707",
+            "agreementName":"№ 7/16-ИТ от 21 «января» 2016 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ЗАО _Альфа-Банк",
+            "fullName":"ЗАО «Альфа-Банк»",
+            "address":"220013, г.Минск, ул. Сурганова, 43-47",
+            "bankAccount":"Р/с BY30ALFA66308146300040270000",
+            "bic":"БИК ALFABY2X, УНП 101541947",
+            "agreementName":"№ 3/16-ИТ от 13 «января» 2016 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ЗАО _Банк Решение",
+            "fullName":"ЗАО «Банк «Решение» ",
+            "address":"220035, г. Минск, ул.Игнатенко, 11",
+            "bankAccount":"Р/с BY20RSHN66308010450560000000",
+            "bic":"БИК RSHNBY2X, УНП 100789114",
+            "agreementName":"№ 10/16-ИТ от 29 «января» 2016 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ОАО АСБ Беларусбанк",
+            "fullName":"ОАО «АСБ Беларусбанк»",
+            "address":"220089, г.Минск, пр. Дзержинского, 18",
+            "bankAccount":"Р/с BY09AKBB66308500000080000000",
+            "bic":"БИК AKBBBY2X, УНП 100325912",
+            "agreementName":"№ 79/15-ИТ/654 от 28 «декабря» 2015 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ОАО Белагропромбанк",
+            "fullName":"ОАО «Белагропромбанк»",
+            "address":"220036, г.Минск, пр-т Жукова, д.3",
+            "bankAccount":"Р/с BY47BAPB66308000222280000000",
+            "bic":"БИК BAPBBY2X , УНП 100693551",
+            "agreementName":"№ 8/16-ИТ от 22 «января» 2016 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ОАО Банк БелВЭБ",
+            "fullName":"ОАО «Банк БелВЭБ»",
+            "address":"220004, г. Минск, пр. Победителей, 29",
+            "bankAccount":"Р/с BY87BELB66300023470070226000",
+            "bic":"БИК BELBBY2X , УНП 100010078",
+            "agreementName":"№ 70/15-ИТ от 15 «декабря» 2015 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ОАО Белгазпромбанк",
+            "fullName":"ОАО «Белгазпромбанк»",
+            "address":"220121 г. Минск, ул. Притыцкого 60/2",
+            "bankAccount":"Р/с BY55OLMP66300000131230000933",
+            "bic":"БИК OLMPBY2X, УНП 100429079",
+            "agreementName":"№ 2/16-ИТ от 12 «января» 2016 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ОАО Белинвестбанк",
+            "fullName":"ОАО «Белинвестбанк»",
+            "address":"220002, г. Минск, пр. Машерова, 29",
+            "bankAccount":"Р/с BY15BLBB66300000000000000243",
+            "bic":"БИК BLBBBY2X, УНП 807000028",
+            "agreementName":"№ 12/1/16-ИТ от 15 «марта» 2016 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ОАО БНБ-Банк",
+            "fullName":"ОАО «БНБ-Банк»",
+            "address":"220012, г. Минск, пр-т Независимости, 87А",
+            "bankAccount":"Р/с BY17BLNB66300000000004001933",
+            "bic":"БИК BLNBBY2X , УНП 100513485",
+            "agreementName":"№ 83/15-ИТ от 30 «декабря» 2015 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ОАО Сбер Банк",
+            "fullName":"ОАО «Сбер Банк»",
+            "address":"220030 г. Минск, пр-т Независимости, 32А-1",
+            "bankAccount":"Р/с BY71BPSB6630130000149330000",
+            "bic":"БИК BPSBBY2X , УНП 100219673",
+            "agreementName":"№ 16/22-ИТ от 23 «декабря» 2022 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ЗАО _БСБ Банк",
+            "fullName":"ЗАО «БСБ Банк»",
+            "address":"220004, г. Минск, пр. Победителей, д.23 к. 4",
+            "bankAccount":"Р/с BY13UNBS6630800000040000933",
+            "bic":"БИК UNBSB2X , УНП 807000069",
+            "agreementName":"№ 4/16-ИТ от 15 «января» 2016 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ЗАО _БТА Банк",
+            "fullName":"ЗАО «БТА Банк»",
+            "address":"220050 г. Минск, ул. В. Хоружей, 20",
+            "bankAccount":"Р/с BY64AEBK66300000001000000002",
+            "bic":"БИК AEBKBY2X , УНП 807000071",
+            "agreementName":"№ 6/16-ИТ от 21 «января» 2016 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ЗАО Банк ВТБ (Беларусь)",
+            "fullName":"ЗАО Банк ВТБ (Беларусь)",
+            "address":"220007, г. Минск, ул. Московская, 14",
+            "bankAccount":"Р/с BY71SLAN66301000000580000000",
+            "bic":"БИК SLANBY22, УНП 101165625",
+            "agreementName":"№ 80/15-ИТ от 28 «декабря» 2015 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ОАО Банк Дабрабыт",
+            "fullName":"ОАО «Банк Дабрабыт»",
+            "address":"220002, г.Минск, ул.Коммунистическая, д.49 п.1",
+            "bankAccount":"Р/с BY42MMBN66300270000000000000",
+            "bic":"БИК MMBNBY22, УНП 807000002",
+            "agreementName":"№ 77/15-ИТ от 22 «декабря» 2015 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ЗАО _МТБанк",
+            "fullName":"ЗАО «МТБанк»",
+            "address":"220007, г. Минск, ул. Толстого, 10",
+            "bankAccount":"Р/с BY71MTBK66300000000000000353",
+            "bic":"БИК MTBKBY22, УНП 100394906",
+            "agreementName":"№ 75/15-ИТ от 22 «декабря» 2015 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ОАО Паритетбанк",
+            "fullName":"ОАО «Паритетбанк»",
+            "address":"220002, г.Минск, ул.Киселева, 61а",
+            "bankAccount":"Р/с BY59POIS66300003000100933001",
+            "bic":"БИК POISBY2X, УНП 100233809",
+            "agreementName":"№ 11/16-ИТ/93/Д от 29 «января» 2016г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"_Приорбанк ОАО",
+            "fullName":"«Приорбанк» ОАО",
+            "address":"220002, г. Минск, ул. Веры Хоружей, 31А",
+            "bankAccount":"Р/с BY20PJCB66309990000019000933",
+            "bic":"БИК PJCBBY2X, УНП 100220190",
+            "agreementName":"№ 76/15-ИТ от 22 «декабря» 2015 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ЗАО _РРБ-Банк",
+            "fullName":"ЗАО «РРБ-Банк»",
+            "address":"220034, г.Минск, ул. Краснозвездная, 18",
+            "bankAccount":"Р/с BY37REDJ66300000000020000933",
+            "bic":"БИК REDJBY22, УНП 100361187",
+            "agreementName":"№ 81/15-ИТ от 28 «декабря» 2015 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ОАО СтатусБанк",
+            "fullName":"ОАО «СтатусБанк»",
+            "address":"220006, г.Минск, ул. Денисовская, 8А",
+            "depositter":"Национальный банк Республики Беларусь",
+            "bankAccount":"Р/с BY72NBRB32000073500130000000",
+            "bic":"БИК NBRBBY2X , УНП 807000043",
+            "agreementName":"№ 72/15-ИТ от 16 «декабря» 2015 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ОАО Технобанк",
+            "fullName":"ОАО «Технобанк»",
+            "address":"220002,  г. Минск, ул. Кропоткина, 44",
+            "bankAccount":"Р/с BY527ECN66300000000000000001",
+            "bic":"БИК TECNBY22, УНП 100706562",
+            "agreementName":"№ 1/16-ИТ от 04 «января» 2016 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ЗАО _ТК Банк",
+            "fullName":"ЗАО «ТК Банк»",
+            "address":"220035, г. Минск, ул. Тимирязева, 65а",
+            "bankAccount":"Р/с BY37BBTK68290186000090000933",
+            "bic":"БИК BBTKBY2X, УНП 807000163",
+            "agreementName":"№ 78/15-ИТ от 28 «декабря» 2015 г.",
+			"priceNumber":"590,00",
+			"priceString":"пятьсот девяносто белорусских рублей 00 копеек"
+         },
+         {  
+            "aliasName":"ЗАО _Цептер Банк",
+            "fullName":"ЗАО «Цептер Банк»",
+            "address":"220034, г. Минск, ул. Платонова, 1Б",
+            "bankAccount":"Р/с BY56ZEPT65309990001009330000",
+            "bic":"БИК ZEPTBY2X , УНП 807000214",
+            "agreementName":"№ 73/15-ИТ от 17 «декабря» 2015 г.",
+			"priceNumber":"690,00",
+			"priceString":"шестьсот девяносто белорусских рублей 00 копеек"
+         }
+      ]
+   }
+}
